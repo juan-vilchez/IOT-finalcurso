@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "883280138853",
+    "firebase_url": "https://final-iot-8d7e7.firebaseio.com",
+    "project_id": "final-iot-8d7e7",
+    "storage_bucket": "final-iot-8d7e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883280138853:android:987e5f6cbfa00e315aec8c",
+        "android_client_info": {
+          "package_name": "pe.edu.tecsup.tecemergentes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883280138853-12uri14v4msvlop8r63rff360k6evt7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.tecsup.tecemergentes",
+            "certificate_hash": "efea6a3053ceb01ce367cca958b0c38f2b5b77a1"
+          }
+        },
+        {
+          "client_id": "883280138853-q36luo08ic0v10v7g5pdqc7n7rd6ir88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpSgSF8BWxQSWNW3p3Zk9c01nxV7u9DWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883280138853-q36luo08ic0v10v7g5pdqc7n7rd6ir88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
